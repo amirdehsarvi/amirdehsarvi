@@ -3,8 +3,8 @@
 </p>
 
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
+<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fdgitechart-transparent-it-itechart-jRf5fsn8G6YaogAWxn&psig=AOvVaw1yLyBbwnM9NQKE3aD9Ox2E&ust=1691061464393000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJDM44HtvYADFQAAAAAdAAAAABAw) -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a machine learning/deep learning scientist currently working at The Institute for Stroke and Dementia Research (ISD), The Ludwig-Maximilians-University Munich Hospital 
