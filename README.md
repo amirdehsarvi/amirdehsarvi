@@ -7,13 +7,13 @@
 ![](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am a machine learning/deep learning scientist currently working at The Institute for Stroke and Dementia Research (ISD), The Ludwig-Maximilians-University Munich Hospital 
+- 🏦 I am a machine learning/deep learning scientist currently working at The Institute for Stroke and Dementia Research (ISD), The Ludwig-Maximilians-University Munich Hospital. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi) -->
 <!-- - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql** -->
 - 💻 I use daily: **.py**,  **.sh**, **.m**
 <!-- - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann -->
-- 💬 Talk to me about films, music, programming
+- 💬 Talk to me about films 🎬, music 🎵, programming 👨‍💻.
 <!-- - 👯 We can connect to play some games of Chess ♟ -->
 <!-- - ⚡ Fun fact: Je connais un peu le français -->
 - 🧑‍💻 Tech I work on :
