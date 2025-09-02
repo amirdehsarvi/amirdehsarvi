@@ -9,7 +9,7 @@
 <!-- https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am a machine learning/deep learning scientist currently working at The Institute for Stroke and Dementia Research (ISD), The Ludwig-Maximilians-University Munich Hospital. 
+- 🏦 I am the Principal Scientist of Neuroimaging at Boehringer Ingelheim. My research focuses on the application of machine learning and deep learning to medical data, with a strong emphasis on leveraging neuroimaging to accelerate disease diagnosis and therapeutic target identification. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi) -->
 <!-- - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql** -->
