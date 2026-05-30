@@ -9,6 +9,7 @@
 <!-- https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I am a Principal Scientist of Neuroimaging at Boehringer Ingelheim. My research focuses on the application of machine learning and deep learning to medical data, with a strong emphasis on leveraging neuroimaging to accelerate disease diagnosis and therapeutic target identification. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi) -->
 <!-- - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql** -->
@@ -30,10 +31,18 @@
       <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/> -->
 </p>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amirdehsarvi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdehsarvi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirdehsarvi&theme=dark)](https://git.io/streak-stats)
+
+### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> GitHub Profile Stats
+
+![GitHub followers](https://img.shields.io/github/followers/amirdehsarvi?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/amirdehsarvi?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub User's forks](https://img.shields.io/github/forks/amirdehsarvi?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/amirdehsarvi/amirdehsarvi)
+![GitHub repo size](https://img.shields.io/github/repo-size/amirdehsarvi/amirdehsarvi)
+![GitHub language count](https://img.shields.io/github/languages/count/amirdehsarvi/amirdehsarvi)
+![GitHub top language](https://img.shields.io/github/languages/top/amirdehsarvi/amirdehsarvi)
+
+> _Note: For detailed contribution graphs and streaks, visit your [GitHub profile](https://github.com/amirdehsarvi) directly._
 
 <!--START_SECTION:waka-->
 
