@@ -1,85 +1,81 @@
-# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Dr. Amir Dehsarvi
 
-</p>
+**Principal Scientist – Neuroimaging | Boehringer Ingelheim**  
+Machine Learning · Neuroimaging · High-Performance Computing · Medical AI
 
+---
 
-<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
-![](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
+I build automated, containerised neuroimaging pipelines and apply machine learning to complex biomedical data — with a focus on accelerating disease diagnosis and therapeutic target identification in neurodegenerative and psychiatric conditions.
 
-<!-- https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif -->
+Currently developing **CINAPS** (Computational Innovation Neuro Analysis & Processing System) — a modular, BIDS-compliant Nextflow pipeline for multi-modal neuroimaging (T1w, T2w, FLAIR, DWI, rsfMRI, task-fMRI, PET) deployed across Boehringer Ingelheim globally. CINAPS builds on [ADPREP](https://www.grip-research.org/platform), its predecessor developed at LMU Munich, which underpins 25+ peer-reviewed publications and is integrated into the GRIP platform (Gates Ventures).
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am a Principal Scientist of Neuroimaging at Boehringer Ingelheim. My research focuses on the application of machine learning and deep learning to medical data, with a strong emphasis on leveraging neuroimaging to accelerate disease diagnosis and therapeutic target identification. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi) -->
-<!-- - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql** -->
-<!-- - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann -->
-<!-- - 👯 We can connect to play some games of Chess ♟ -->
-<!-- - ⚡ Fun fact: Je connais un peu le français -->
+---
 
-<p align="center">
-      <!-- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>  -->
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <!-- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/> -->
-      <!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> -->
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/> -->
-      <!-- <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/> -->
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <!-- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/> -->
-      <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/> -->
-</p>
+## Research Focus
 
+- End-to-end neuroimaging preprocessing and QC pipelines (MRI, fMRI, DWI, PET)
+- Machine learning and deep learning applied to brain imaging biomarkers
+- Alzheimer's disease, Parkinson's disease, schizophrenia, depression
+- Scalable, reproducible neuroimaging workflows on HPC (SLURM + Singularity)
 
-### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> GitHub Profile Stats
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAA62?style=flat&logo=nextflow&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Neuroimaging Tools**
+
+![FSL](https://img.shields.io/badge/FSL-003087?style=flat)
+![FreeSurfer](https://img.shields.io/badge/FreeSurfer-6A0DAD?style=flat)
+![CAT12/SPM12](https://img.shields.io/badge/CAT12%2FSPM12-E84118?style=flat)
+![nipype](https://img.shields.io/badge/nipype-007ACC?style=flat)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Singularity](https://img.shields.io/badge/Singularity-1A1A2E?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![HPC/SLURM](https://img.shields.io/badge/HPC%2FSLURM-0078D4?style=flat)
+
+---
+
+## GitHub Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/amirdehsarvi?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/amirdehsarvi?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![GitHub User's forks](https://img.shields.io/github/forks/amirdehsarvi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/amirdehsarvi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/amirdehsarvi/amirdehsarvi)
-![GitHub repo size](https://img.shields.io/github/repo-size/amirdehsarvi/amirdehsarvi)
-![GitHub language count](https://img.shields.io/github/languages/count/amirdehsarvi/amirdehsarvi)
-![GitHub top language](https://img.shields.io/github/languages/top/amirdehsarvi/amirdehsarvi)
 
-> _Note: For detailed contribution graphs and streaks, visit your [GitHub profile](https://github.com/amirdehsarvi) directly._
+---
 
-<!--START_SECTION:waka-->
+## Selected Experience
 
-<!--END_SECTION:waka-->
+| Period | Role | Institution |
+|--------|------|-------------|
+| 2025 – present | Principal Scientist, Neuroimaging | Boehringer Ingelheim, Germany |
+| 2022 – 2025 | Postdoctoral Researcher | LMU Munich / ISD, Germany |
+| 2018 – present | Chief Technology Officer | ClearSky Medical Diagnostics, UK |
+| 2021 – 2022 | Postdoctoral Research Associate | University of York, UK |
+| 2020 – 2021 | Research Fellow | University of Aberdeen, UK |
+| 2019 | Postdoctoral Researcher | University of Dublin, Ireland |
+| 2014 – 2018 | PhD, Electronic Engineering | University of York, UK |
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.37 % as on ⏰ 1-Aug-2023
+---
 
+## Connect
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/amirdehsarvi) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/amirdehsarvi) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/amirdehsarvi) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:amir.dehsarvi@gmail.com)
-<!-- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| -->
-
-
-<!-- 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway) -->
-<!-- - [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices) -->
-<!-- - [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application) -->
-<!-- - [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java) -->
-<!-- - [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ▶ [... view more](https://apoorvtyagi.tech/) --> 
-
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirdehsarvi)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RWGt9XQAAAAJ&hl)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7116-9741)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Amir-Dehsarvi)
+[![PubMed](https://img.shields.io/badge/PubMed-326599?style=flat)](https://www.ncbi.nlm.nih.gov/pubmed/?term=Amir+Dehsarvi)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/amirdehsarvi.bsky.social)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amir.dehsarvi@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://amirdehsarvi.github.io)
