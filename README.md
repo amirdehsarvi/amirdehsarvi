@@ -7,8 +7,6 @@ Machine Learning · Neuroimaging · High-Performance Computing · Medical AI
 
 I build automated, containerised neuroimaging pipelines and apply machine learning to complex biomedical data — with a focus on accelerating disease diagnosis and therapeutic target identification in neurodegenerative and psychiatric conditions.
 
-Currently developing **CINAPS** (Computational Innovation Neuro Analysis & Processing System) — a modular, BIDS-compliant Nextflow pipeline for multi-modal neuroimaging (T1w, T2w, FLAIR, DWI, rsfMRI, task-fMRI, PET) deployed across Boehringer Ingelheim globally. CINAPS builds on [ADPREP](https://www.grip-research.org/platform), its predecessor developed at LMU Munich, which underpins 25+ peer-reviewed publications and is integrated into the GRIP platform (Gates Ventures).
-
 ---
 
 ## Research Focus
@@ -61,7 +59,7 @@ Currently developing **CINAPS** (Computational Innovation Neuro Analysis & Proce
 |--------|------|-------------|
 | 2025 – present | Principal Scientist, Neuroimaging | Boehringer Ingelheim, Germany |
 | 2022 – 2025 | Postdoctoral Researcher | LMU Munich / ISD, Germany |
-| 2018 – present | Chief Technology Officer | ClearSky Medical Diagnostics, UK |
+| 2018 – 2025 | Chief Technology Officer | ClearSky Medical Diagnostics, UK |
 | 2021 – 2022 | Postdoctoral Research Associate | University of York, UK |
 | 2020 – 2021 | Research Fellow | University of Aberdeen, UK |
 | 2019 | Postdoctoral Researcher | University of Dublin, Ireland |
