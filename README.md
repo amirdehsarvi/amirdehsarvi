@@ -9,16 +9,12 @@
 <!-- https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am a Principal Scientist of Neuroimaging at Boehringer Ingelheim. My research focuses on the application of machine learning and deep learning to medical data, with a strong emphasis on leveraging neuroimaging to accelerate disease diagnosis and therapeutic target identification. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi) -->
 <!-- - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql** -->
-- 💻 I use daily: **.py**,  **.sh**, **.m**, **.nf**
 <!-- - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann -->
-- 💬 Talk to me about films 🎬, music 🎵, programming 👨‍💻.
 <!-- - 👯 We can connect to play some games of Chess ♟ -->
 <!-- - ⚡ Fun fact: Je connais un peu le français -->
-- 🧑‍💻 Tech I work on :
 
 <p align="center">
       <!-- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>  -->
@@ -34,7 +30,6 @@
       <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/> -->
 </p>
 
----
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amirdehsarvi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdehsarvi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,7 +41,6 @@
 
 ⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.37 % as on ⏰ 1-Aug-2023
 
----
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -55,7 +49,6 @@
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/amirdehsarvi) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/amirdehsarvi) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/amirdehsarvi) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:amir.dehsarvi@gmail.com)
 <!-- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| -->
 
----
 
 <!-- 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
@@ -69,7 +62,6 @@
 
 <!-- ▶ [... view more](https://apoorvtyagi.tech/) --> 
 
----
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
@@ -78,7 +70,6 @@
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
----
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
