@@ -58,7 +58,7 @@ I build automated, containerised neuroimaging pipelines and apply machine learni
 | Period | Role | Institution |
 |--------|------|-------------|
 | 2025 – present | Principal Scientist, Neuroimaging | Boehringer Ingelheim, Germany |
-| 2022 – 2025 | Postdoctoral Researcher | LMU Munich / ISD, Germany |
+| 2022 – 2025 | Postdoctoral Researcher | ISD, LMU Munich, Germany |
 | 2018 – 2025 | Chief Technology Officer | ClearSky Medical Diagnostics, UK |
 | 2021 – 2022 | Postdoctoral Research Associate | University of York, UK |
 | 2020 – 2021 | Research Fellow | University of Aberdeen, UK |
